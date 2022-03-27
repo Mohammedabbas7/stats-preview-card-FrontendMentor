@@ -34,6 +34,7 @@ body {
 
 .card__img {
     width: 100%;
+    min-height: 16rem; 
     
     background-color: hsl(277, 64%, 61%);
     background-image: url(../images/image-header-mobile.jpg);
@@ -96,7 +97,6 @@ body {
 
     .card__img {
         width: 100%;
-        height: 100%;
 
         background-color: hsl(277, 64%, 61%);
         background-image: url(../images/image-header-desktop.jpg);
