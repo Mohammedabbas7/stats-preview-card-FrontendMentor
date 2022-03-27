@@ -126,3 +126,21 @@ body {
     }
 
 }
+
+
+
+/* ==== Footer Style ==== */
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(277, 64%, 61%); 
+    transition: all .3s;
+}
+
+.attribution a:hover {
+    text-decoration: none;
+}
